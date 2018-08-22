@@ -1,0 +1,26 @@
+{
+  "name": "apitestbot",
+  "version": "1.0.0",
+  "description": "NPM package for API Functional and Non-Functional Requirements",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "api",
+    "function",
+    "non-functional",
+    "performance",
+    "smoke",
+    "regression",
+    "reports",
+    "rest",
+    "soap",
+    "automation"
+  ],
+  "author": "Vamsi Ravi",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
